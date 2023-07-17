@@ -11,5 +11,5 @@ cd Basic-External-AssaultCube
 cd bin
 .\run.bat
 ```
-[!App screenshot](https://github.com/Silme94/Basic-External-AssaultCube/blob/main/screenshot.png)
-[!App screenshot](https://github.com/Silme94/Basic-External-AssaultCube/blob/main/screenshot2.png)
+![App screenshot](https://github.com/Silme94/Basic-External-AssaultCube/blob/main/screenshot.png)
+![App screenshot](https://github.com/Silme94/Basic-External-AssaultCube/blob/main/screenshot2.png)
