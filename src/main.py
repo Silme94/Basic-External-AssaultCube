@@ -67,7 +67,7 @@ def main() -> None:
         Cheat.WriteProcessMemoryEx(armor_ammo, ctypes.c_int(1337))  
 
         print(random_color(),  "Writing Memory [GRENADE]...")
-        granade_ammo = Cheat.GetPointerAddress(LocalPlayer, [HEALTH]) 
+        granade_ammo = Cheat.GetPointerAddress(LocalPlayer, [GRENADE]) 
         Cheat.WriteProcessMemoryEx(granade_ammo, ctypes.c_int(1337))  
 
         print(random_color(), "Done.")
