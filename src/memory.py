@@ -1,0 +1,12 @@
+# Local player and some offets
+# AssaultCube 1.3.0.2
+
+LOCAL_PLAYER = 0x0017E0A8
+
+RIFLE_AMMO = 0x140
+SUBMACHINE_AMMO = 0x138
+PISTOL_AMMO = 0x12C
+GRENADE = 0x144
+
+HEALTH = 0xEC
+ARMOR = 0xF0
